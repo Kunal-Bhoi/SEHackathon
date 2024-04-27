@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Apple",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/S%C3%BCdtiroler_Apfel_g.g.A_Gala.jpg/220px-S%C3%BCdtiroler_Apfel_g.g.A_Gala.jpg"
+    },
+    {
+        "title": "Banana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/220px-Banana-Single.jpg"
+    },
+    {
+        "title": "Orange",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Orange-Whole-%26-Split.jpg/220px-Orange-Whole-%26-Split.jpg"
+    },
+    {
+        "title": "Strawberry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/220px-PerfectStrawberry.jpg"
+    },
+    {
+        "title": "Grapes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/220px-Table_grapes_on_white.jpg"
+    },
+    {
+        "title": "Watermelon",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-7aLo-zJweWooC5sxvTxMUVI93j2xrA57exs33m1FA&s"
+    },
+    {
+        "title": "Pineapple",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/220px-Pineapple_and_cross_section.jpg"
+    },
+    {
+        "title": "Kiwi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/220px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg"
+    },
+    {
+        "title": "Carrot",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Carrots_at_Ljubljana_Central_Market.JPG/220px-Carrots_at_Ljubljana_Central_Market.JPG"
+    },
+    {
+        "title": "Broccoli",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Basket_of_broccoli_in_Singapore_market.jpg/220px-Basket_of_broccoli_in_Singapore_market.jpg"
+    },
+    {
+        "title": "Tomato",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bright_red_tomato_and_cross_section02.jpg/220px-Bright_red_tomato_and_cross_section02.jpg"
+    },
+    {
+        "title": "Cucumber",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Australia_Cucumbers_for_sale_at_store.jpg/220px-Australia_Cucumbers_for_sale_at_store.jpg"
+    }
+]

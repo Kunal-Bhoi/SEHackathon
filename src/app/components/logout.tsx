@@ -3,7 +3,7 @@ import axios from "axios";
 import React from "react";
 import { toast } from "react-hot-toast";
 import { useRouter } from "next/navigation";
-//import { LogOut } from "lucide-react";
+import { LogOut } from "lucide-react";
 
 export default function Logout() {
   const router = useRouter();
@@ -26,7 +26,7 @@ export default function Logout() {
         className="cursor-pointer font-semibold flex flex-row gap-3"
       >
         <span>Logout</span>
-        {/* <LogOut/> */}
+        <LogOut/>
       </button>
     </div>
   );
