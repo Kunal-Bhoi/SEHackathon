@@ -21,15 +21,15 @@ const RoleCheckbox = ({ onCheckboxChange, selectedRole }) => {
       <div className="form-control">
         <label
           className={`label gap-2 cursor-pointer  ${
-            selectedRole === "manager" ? "selected" : ""
+            selectedRole === "customer" ? "selected" : ""
           }`}
         >
-          <span className="label-text">Manager </span>
+          <span className="label-text">Customer </span>
           <input
             type="checkbox"
             className="checkbox border-slate-900 rounded-lg p-2 text-slate-900 focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 focus:ring-offset-white"
-            checked={selectedRole === "manager"}
-            onChange={() => onCheckboxChange("manager")}
+            checked={selectedRole === "customer"}
+            onChange={() => onCheckboxChange("customer")}
           />
         </label>
       </div>

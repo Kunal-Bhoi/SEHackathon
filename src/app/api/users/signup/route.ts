@@ -16,7 +16,7 @@ export async function POST(request: NextRequest){
         console.log(reqBody);
 
         //check if user already exists
-        const user = await User.findOne({email})
+        const user = await User.findOne({username})
 
         if(user){
             return NextResponse.json({error: "User already exists"}, {status: 400})
@@ -28,7 +28,8 @@ export async function POST(request: NextRequest){
 
         const newUser = new User({
             name:"",
-            upiID:"",
+            address:"",
+            isVerified:true,
             username,
             email,
             password: hashedPassword,
