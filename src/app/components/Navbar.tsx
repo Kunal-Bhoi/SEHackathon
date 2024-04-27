@@ -3,7 +3,7 @@ import * as React from "react";
 
 import { Profile } from "./Profile";
 import Logout from "./logout";
-import { CiShoppingCart } from "react-icons/ci";
+//import { CiShoppingCart } from "react-icons/ci";
 import Link from "next/link"
 import { ThemeSwitch } from "./ThemeSwitch";
 import {
@@ -55,7 +55,7 @@ export function Navbar() {
             href="#"
             className="text-muted-foreground transition-colors hover:text-foreground flex items-center gap-2"
           >
-            Cart <CiShoppingCart className="h-8 w-8 md:h-10 md:w-10" />
+            Cart
           </Link>
           <Link
             href="#"
