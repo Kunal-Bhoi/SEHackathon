@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "description": "PM-KISAN is a central sector scheme launched on 24th February 2019 to supplement financial needs of landholding farmers, subject to exclusions. Under the scheme, financial benefit of Rs. 6000/- per year is transferred in three equal four-monthly installments into the bank accounts of farmers' families across the country, through Direct Benefit Transfer (DBT) mode. Till now, Rs. 2.81 lakh crores have been transferred through Direct Benefit Transfer (DBT) to more than 11 crores beneficiaries (farmers) through various installments."
+    },
+    {
+        "title": "Pradhan Mantri Kisan MaanDhan Yojana (PM-KMY)",
+        "description": "Pradhan Mantri Kisan Maandhan Yojna (PMKMY) is a central sector scheme launched on 12th September 2019 to provide security to the most vulnerable farmer families. PM-KMY is a contributory scheme, small and marginal farmers (SMFs), subject to exclusion criteria, can opt to become members of the scheme by paying monthly subscription to the Pension Fund. A similar amount will be contributed by the Central Government."
+    },
+    {
+        "title":"Modified Interest Subvention Scheme (MISS)",
+        "description":"The Interest Subvention Scheme (ISS) provides concessional short term agri-loans to the farmers practicing crop husbandry and other allied activities like animal husbandry, dairying and fisheries. ISS is available to farmers availing short term crop loans up to Rs.3.00 lakh at an interest rate of 7% per annum for one year. Additional 3% subvention is also given to the farmers for prompt and        timely repayment of loans thus reducing the effective rate of interest to 4% per annum."
+    },
+    {
+        "title":"Market Intervention Scheme and Price support Scheme (MIS-PSS)",
+        "description":"Ministry of Agriculture & Farmers Welfare implements the Price Support Scheme (PSS) for procurement of pulses, oilseeds and copra. Market Intervention Scheme (MIS) for procurement of agricultural and horticultural commodities which are perishable in nature and are not covered under the Price Support Scheme (PSS)."
+    },
+    {
+        "title":"Soil Health Card (SHC)",
+        "description":"Soil health card provides information to farmers on nutrient status of their soil along with recommendation on appropriate dosage of nutrients to be applied for improving soil health and its fertility. The indicators are typically based on farmers' practical experience and knowledge of local natural resources. The card lists soil health indicators that can be assessed without the aid of technical or laboratory equipment. The Scheme rolls out a decentralized system of soil testing which will help in developing a nationwide soil fertility map on a GIS platform that can easily be integrated with the real time decision support systems being developed. In order to develop the soil fertility map, Government of India has decided to conduct 5 Crore Soil Samples across the country during year 2023-        24 to 2025-26."
+    },
+    {
+        "title":"Paramparagat Krishi Vikas Yojana (PKVY)",
+        "description":"Paramparagat Krishi Vikas Yojana (PKVY) aims to increase soil fertility and thereby helps in production of healthy food through organic practices without the use of agro-chemicals. The scheme is implemented in a cluster mode with unit cluster size of 20 hectares. A group shall comprise minimum 20 farmers (may be more if individual holdings are less). Farmers in a group can avail benefit of maximum of 2 ha as per provision of PKVY. 25 such clusters are converted into one large cluster of about 500 ha area to facilitate marketing of organic produce. The scheme provides for an assistance of Rs. 31,500 per ha to states, out of which i.e., Rs. 15,000 is given        as incentives to a farmer directly through DBT."
+    },
+    {
+        "title":"National beekeeping and Honey Mission (NBHM)",
+        "description":"Keeping in view the importance of beekeeping, a new Central Sector Scheme entitled National Beekeeping & Honey Mission (NBHM) was launched in 2020 under Atma Nirbhar Bharat Abhiyan for its implementation in the field for overall promotion and development of scientific beekeeping & to achieve the goal of “Sweet Revolution”."
+    },
+    {
+        "title":"Sub-Mission on Seed and Planting Material (SMSP)",
+        "description":"SMSP covers the entire gamut of seed production chain, from production of nucleus seed to supply of certified seeds to the farmers, to provide support for creation of infrastructure conducive for development of the seed sector, support to the public seed producing organisations for improving their capacity and quality of seed production, create dedicated seed bank to meet unforeseen circumstances of natural calamities, etc. For effective monitoring, efficiency and transparency covering Seed chain from Nucleus- Breeder-Foundation-Certified Seed, first phase of Seed Authentication, Traceability & Holistic Inventory (SATHI) portal        was launched on 19th April, 2023. SMSP is now merged with NFSM."
+    },
+    {
+        "title":"Integrated Scheme for Agriculture Marketing (ISAM)",
+        "description":"ISAM supports state governments in governing the agricultural produce marketing through creation and improvement of market structures, capacity building and generating access to market information. During 2017-18, National Agriculture Market Scheme popularly known as e-NAM scheme has also been made part of the same. National Agriculture Market (e-NAM) is a pan-India electronic trading portal which networks the existing APMC mandis to create a unified national market for agricultural commodities. 1389 mandis of 23 States and 04 UTs have been integrated to e- NAM platform and more than 1.76 Crore Farmers & 2.5 Lakh traders have been registered on e-NAM portal."
+    }
+]
