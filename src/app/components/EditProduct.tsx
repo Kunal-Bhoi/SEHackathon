@@ -100,7 +100,7 @@ export function EditProduct({ trans }: EditProductProps) {
           </div>
           <div className="grid grid-cols-4 items-center gap-4">
             <Label htmlFor="availableQuantity" className="text-right">
-            availableQuantity
+            Available
             </Label>
             <Input
               id="availableQuantity"
@@ -136,7 +136,7 @@ export function EditProduct({ trans }: EditProductProps) {
             {isLoading ? (
               <div className="w-5 h-5 border-t-2 border-b-2  rounded-full animate-spin" />
             ) : (
-              "Pay"
+              "Change"
             )}
           </Button>
         </DialogFooter>

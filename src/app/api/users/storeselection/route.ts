@@ -6,8 +6,12 @@ connect();
 
 export async function GET(request: NextRequest) {
     try {
-        const reqBody = await request.json();
-        const {name} = reqBody;
+        // const reqBody = await request.json();
+        // const {name} = reqBody;
+
+        const url = new URL(request.url);
+        const name = url.searchParams.get('name');
+        console.log(name);
 
         // Find the product with the given parameters
         const products = await Product.find({name: name });
@@ -23,6 +27,6 @@ export async function GET(request: NextRequest) {
             success: true,
         });
     } catch (error: any) {
-        return NextResponse.json({ error: error.message }, { status: 500 });
+        return NextResponse.json({ error: "error.message" }, { status: 500 });
     }
 }

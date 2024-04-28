@@ -66,7 +66,6 @@ export default function Catalog() {
       setproducts(response.data.products);
     } catch (error: any) {
       console.error("Error fetching products:", error.message);
-      toast.error("Error fetching products");
     } finally {
       setLoading(false);
     }
@@ -84,7 +83,7 @@ export default function Catalog() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Catalog products</CardTitle>
+        <CardTitle>Inventory</CardTitle>
         <button onClick={fetchproducts}><Edit2Icon/></button>
       </CardHeader>
       <CardContent className="grid gap-8">

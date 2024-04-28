@@ -13,24 +13,19 @@ export async function POST(request: NextRequest) {
     console.log(reqBody);
 
     // Find the transaction with the given parameters
-    const product = await Product.findOne({ _id: id , });
+    const product = await Product.findOne({ _id: id});
 
     // If transaction not found, return error
     if (!product) {
       return NextResponse.json({ error: "Transaction not found" }, { status: 404 });
     }
 
-    // Update the paymentStatus to "done"
-    // transaction.paymentStatus = "Done";
+    product.availableQuantity -= quantity;
 
-    // Save the updated transaction
-    // await transaction.save();
-
-
-    
+    await product.save();
 
     return NextResponse.json({
-      message: "Transaction updated successfully",
+      message: "Transaction Done successfully",
       success: true,
     });
   } catch (error: any) {

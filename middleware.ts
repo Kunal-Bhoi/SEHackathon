@@ -23,6 +23,8 @@ export const config = {
     '/',
     '/login',
     '/signup',
-    '/home'
+    '/home',
+    '/orgfarm',
+    '/subsidy',
   ]
 }

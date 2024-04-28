@@ -30,11 +30,11 @@ export function Navbar() {
             href="#"
             className="flex items-center gap-2 text-lg font-semibold md:text-base"
           >
-            <Package2 className="h-6 w-6" />
-            <span className="sr-only">Acme Inc</span>
+            {/* <Package2 className="h-6 w-6" />
+            <span className="sr-only">Acme Inc</span> */}
           </Link>
           <Link
-            href="/Home"
+            href="/home"
             className="text-foreground transition-colors hover:text-foreground"
           >
             Home
@@ -43,25 +43,19 @@ export function Navbar() {
             href="#"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
-            MyOrder
-          </Link>
-          <Link
-            href="#"
-            className="text-muted-foreground transition-colors hover:text-foreground"
-          >
             Products
           </Link>
           <Link
-            href="#"
-            className="text-muted-foreground transition-colors hover:text-foreground flex items-center gap-2"
-          >
-            Cart
-          </Link>
-          <Link
-            href="#"
+            href="/orgfarm"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
-            Settings
+            OrgFarm
+          </Link>
+          <Link
+            href="/subsidy"
+            className="text-muted-foreground transition-colors hover:text-foreground"
+          >
+            GovSupport
           </Link>
           <Link
             href="/About_us"
@@ -88,35 +82,29 @@ export function Navbar() {
                 href="#"
                 className="flex items-center gap-2 text-lg font-semibold"
               >
-                <Package2 className="h-6 w-6" />
-                <span className="sr-only">Acme Inc</span>
+                {/* <Package2 className="h-6 w-6" />
+                <span className="sr-only">Acme Inc</span> */}
               </Link>
               <Link href="/Home" className="hover:text-foreground">
                 Home
               </Link>
               <Link
-                href="/History"
-                className="text-muted-foreground hover:text-foreground"
-              >
-                History
-              </Link>
-              <Link
                 href="#"
                 className="text-muted-foreground hover:text-foreground"
               >
-                News
+                products
               </Link>
               <Link
-                href="#"
+                href="/subsidy"
                 className="text-muted-foreground hover:text-foreground"
               >
-                ML
+                GovSupport
               </Link>
               <Link
                 href="/About_us"
                 className="text-muted-foreground hover:text-foreground"
               >
-               About us 
+               AboutUs 
               </Link>
             </nav>
           </SheetContent>
